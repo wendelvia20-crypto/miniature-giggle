@@ -45,16 +45,34 @@ Na semana, o perfil **cresceu +99 seguidores líquidos** (de ~9.067 para **9.166
 
 ## 3. Reels (23–30/07)
 
-Os Reels foram o formato de maior impacto na semana.
+Os Reels foram o formato de maior impacto na semana — 9 vídeos que, juntos, alcançaram ~5,7x mais pessoas que o feed.
 
 | Métrica | Total |
 |---|---:|
 | Reels publicados | **9** |
 | Visualizações de Reels | **~12.768** |
-| Alcance de Reels | **~4.513** |
+| Alcance de Reels | **~8.010** |
 | Interações em Reels | **436** |
 
-**Melhor dia de Reels:** **30/07** — 4.452 visualizações e 1.401 de alcance médio por reel.
+### Detalhamento por Reel (ordem cronológica)
+
+| Data | Reel (tema) | Views | Alcance | Curt. | Coment. | Salv. | Comp. | Interações | T. médio |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| 23/07 | Observar a criança (Fonoaudióloga) | 1.667 | 1.016 | 39 | 2 | 1 | 12 | 54 | 4,7s |
+| 27/07 | Perguntas às pediatras | 1.161 | 743 | 55 | 5 | 2 | 4 | 66 | 15,5s |
+| 27/07 | Nutrição / avaliação | 721 | 485 | 23 | 1 | 2 | 1 | 27 | 7,0s |
+| 28/07 | Sinais de falta de vitamina D | 1.635 | 1.044 | 25 | 3 | 2 | 4 | 34 | 5,4s |
+| 28/07 | Dermatologia (Dra. Gaby Vilarinho) | 690 | 446 | 20 | 0 | 1 | 0 | 21 | 7,1s |
+| 29/07 | TDAH / Terapia Ocupacional | 1.340 | 757 | 69 | 16 | 1 | 16 | **102** | 11,5s |
+| 29/07 | Seu filho vive doente? | 1.102 | 716 | 15 | 4 | 2 | 2 | 23 | 5,2s |
+| 30/07 | Gripe x resfriado (pediatra) | **2.673** | **1.634** | 43 | 3 | 4 | 4 | 54 | 6,1s |
+| 30/07 | Depoimento de família | 1.779 | 1.169 | 38 | 6 | 1 | 10 | 55 | 12,8s |
+
+**Destaques dos Reels:**
+- 🥇 **Mais visto e maior alcance:** "Gripe x resfriado" (30/07) — 2.673 views e 1.634 de alcance.
+- 🔥 **Mais engajado:** "TDAH / Terapia Ocupacional" (29/07) — 102 interações, com 16 comentários e 16 compartilhamentos (o que mais gerou conversa e disseminação).
+- ⏱️ **Maior retenção:** "Perguntas às pediatras" (15,5s de tempo médio) e "Depoimento de família" (12,8s) — formatos que prendem a atenção até o fim.
+- No dia **29/07 foram publicados 2 Reels** e no **30/07 mais 2**, concentrando o pico de interações da semana.
 
 ---
 
